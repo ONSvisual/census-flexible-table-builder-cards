@@ -1,7 +1,7 @@
 # collaborate-ideas-cards
 A tool to help shape citizen content ideas for analysis.
 
-[Try it out](https://onsvisual.github.io/collaborate-ideas-cards/)
+## [Try it out](https://onsvisual.github.io/collaborate-ideas-cards/)
 
 After thinking a lot about all the futures stuff (horizon scanning, driver mapping, scenarios, back-casting) I thought it's all based around the policy cycle which is not quite what ONS does. A lot of other people have done horizon scanning already and written it up into [trends](https://www.gov.uk/government/collections/trend-deck-spring-2021) and drivers (climate change, automation, ageing population, greater interconnectivity, shifting global economies) so it doesn't really make sense to do it all again. 
 
